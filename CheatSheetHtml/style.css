@@ -1,0 +1,21 @@
+.tagcolor {
+    background-color: #f0ead6 ;
+}
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    font-size: 0.9em;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.leadtitle,
+.title {
+    text-align: center;
+}
+.title {
+    color: purple;
+}
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
